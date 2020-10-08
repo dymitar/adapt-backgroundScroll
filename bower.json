@@ -2,16 +2,16 @@
     "name": "adapt-backgroundScroll",
     "repository": {
         "type": "git",
-        "url": "git://github.com/danielstorey/adapt-backgroundScroll.git"
+        "url": "https://github.com/dymitar/adapt-backgroundScroll"
     },
-    "framework": ">=3.0.0",
+    "framework": ">=5.0.0",
     "description": "Backgrounds fade as the user scrolls. Backgrounds can be configured at article and block level",
-    "version": "3.0.2",
+    "version": "3.0.3",
     "displayName": "Background Scroll",
     "extension": "backgroundScroll",
     "main": "/js/adapt-backgroundScroll.js",
-    "homepage": "https://github.com/danielstorey/adapt-backgroundScroll",
-    "issues": "https://github.com/danielstorey/adapt-backgroundScroll/issues",
+    "homepage": "https://github.com/dymitar/adapt-backgroundScroll",
+    "issues": "",
     "keywords": [
         "adapt-plugin",
         "adapt-extension"

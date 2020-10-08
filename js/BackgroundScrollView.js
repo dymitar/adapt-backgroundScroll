@@ -9,7 +9,7 @@ define([
         className: 'bgscroll-images',
 
         initialize: function() {
-            this.offsetTop = $('.navigation').height();
+            this.offsetTop = $('.nav__inner').height();
             this.viewHeight = $(window).height() - this.offsetTop;
             this.listenTo(Adapt, 'remove', this.remove);
             this.render();
